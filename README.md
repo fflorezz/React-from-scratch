@@ -1,2 +1,2 @@
-# React-from-scratch
+# React-setup
 React setup with parcel

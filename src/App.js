@@ -1,7 +1,7 @@
 import React from "react";
 
 const App = () => {
-  return React.createElement("h1", {}, "HELLO WORLD!!!");
+  return <h1>HELLO AGAIN!!!</h1>;
 };
 
 export default App;
